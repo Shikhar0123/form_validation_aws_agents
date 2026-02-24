@@ -1,0 +1,115 @@
+{
+  "Goods or Services Not Provided": {
+    "code": "4855/13.1",
+    "optional_documents": [
+      "Transaction proof (charge slip/POS receipt/e-commerce confirmation)",
+      "Bank statement highlighting disputed charge"
+    ],
+    "mandatory_documents": [
+      "Email/chat with merchant requesting delivery/refund",
+      "Order confirmation/invoice",
+      "Delivery tracking showing no delivery",
+      "Cancellation request communications",
+      "Proof of attempt to resolve with merchant"
+    ]
+  },
+  "Cancelled Merchandise/Services": {
+    "code": "4860/13.7",
+    "optional_documents": [
+      "Transaction proof (invoice/sales slip/booking confirmation)",
+      "Bank statement showing disputed charge"
+    ],
+    "mandatory_documents": [
+      "Cancellation request copy (email/letter/chat/phone record/cancellation number)",
+      "Merchant's cancellation acknowledgment",
+      "Terms & conditions showing cancellation/refund policy",
+      "Merchant's refund promise",
+      "Proof services/goods not used after cancellation",
+      "Proof of attempt to resolve with merchant"
+    ]
+  },
+  "Cancelled Recurring/Free Trial": {
+    "code": "4853/13.2",
+    "optional_documents": [
+      "Transaction proof (bank statement showing disputed recurring charge)"
+    ],
+    "mandatory_documents": [
+      "Cancellation request copy (email/letter/chat/screenshot/confirmation number)",
+      "Merchant's cancellation acknowledgment",
+      "Terms & conditions showing cancellation policy",
+      "Evidence of attempt to resolve with merchant"
+    ]
+  },
+  "Not as Described/Defective/Misrepresentation/Counterfeit": {
+    "code": "4853/13.3",
+    "optional_documents": [
+      "Transaction proof (sales slip/invoice/e-commerce confirmation)",
+      "Bank statement showing disputed transaction"
+    ],
+    "mandatory_documents": [
+      "Photos of defective/damaged merchandise",
+      "Merchant advertisements/product descriptions/terms showing what was promised",
+      "Return attempt/shipment proof",
+      "Warranty/repair request documents",
+      "For Counterfeit: Expert opinion required",
+      "For Misrepresentation: Terms & conditions required",
+      "Proof of attempt to resolve with merchant"
+    ]
+  },
+  "Credit Not Processed": {
+    "code": "4860/13.6",
+    "optional_documents": [
+      "Transaction proof (sales slip/invoice/e-commerce receipt)",
+      "Bank statement showing original debit (and no refund credit)",
+      "Credit note/receipt from merchant"
+    ],
+    "mandatory_documents": [
+      "Merchandise return proof (return receipt/courier slip/tracking)",
+      "Merchant's return/cancellation acknowledgment",
+      "Merchant's refund promise (email/letter/chat)",
+      "Terms & conditions/cancellation policy showing refund eligibility",
+      "Proof of attempt to resolve with merchant"
+    ]
+  },
+  "Non-Receipt of Cash (ATM)": {
+    "code": "4859/13.9",
+    "optional_documents": [
+      "Dispute form (bank format) - Required only if more than 2 disputed transactions",
+      "Customer complaint (written/oral) stating: Date, time, and ATM location, Amount attempted to withdraw, Amount actually received (if any), Confirmation that cash not/partially dispensed"
+    ],
+    "mandatory_documents": []
+  },
+  "Duplicate Processing": {
+    "code": "4834/12.2A",
+    "optional_documents": [
+      "Dispute form (bank format) - NOT mandatory",
+      "Customer complaint (written/oral) stating: Date and amount of disputed transactions, Merchant details, Confirmation of same transaction debited multiple times"
+    ],
+    "mandatory_documents": []
+  },
+  "Paid by Other Means": {
+    "code": "4834/12.2B",
+    "optional_documents": [
+      "Dispute form (bank format)",
+      "Customer written complaint stating: Transaction date and amount, Merchant details, Confirmation payment made by another method but card also charged",
+      "Card transaction proof (sales slip/invoice/bank statement)"
+    ],
+    "mandatory_documents": [
+      "Proof of alternative payment such as Cash receipt signed by merchant / Cheque copy + bank clearing proof / Online banking/UPI/NEFT confirmation/ Wallet transaction confirmation",
+      "Merchant acknowledgment of alternate payment",
+      "Communication with merchant about duplicate/extra charge"
+    ]
+  },
+  "Incorrect Amount & Transaction Amount Differs": {
+    "code": "4831/12.5",
+    "mandatory_documents": [
+      "Signed receipts showing agreed amount",
+      "Itemized invoices detailing goods/services and total cost",
+      "Communication records confirming agreed price",
+      "Proof of correct account number and transaction amount matching order receipt",
+      "Sales documentation showing no addition errors",
+      "Proof of attempt to resolve dispute with merchant"
+    ],
+    "optional_documents": []
+  }
+}

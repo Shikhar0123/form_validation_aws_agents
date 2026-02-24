@@ -1,0 +1,55 @@
+Dispute Category Identification Guide
+
+Non-Receipt of Cash (ATM)
+This category is used specifically for ATM withdrawal attempts where the machine malfunctions.
+Use when: The customer attempted to withdraw cash, but the ATM dispensed nothing or a partial amount while the account was debited for the full total.
+Identifiers: "ATM didn't give me money," "Account charged but no cash," or "Received £20 instead of £50."
+Exclusion: Do not use for transactions that are not ATM-related or if the customer received the full amount.
+
+Incorrect Amount
+Apply this when there is a discrepancy between the agreed price and the final charge.
+Use when: a customer authorized a specific amount but was charged a different (higher or lower) figure.
+Identifiers: Requires proof of the agreed amount (e.g., a receipt, invoice, or price list) to compare against the statement.
+Exclusion: Not for multiple charges of the same amount or cases where the customer disputes the entire transaction.
+
+Duplicate Processing
+Used for redundant charges occurring for a single purchase.
+Use when: The same merchant charges the customer two or more times for the same item or service on the same or a very close date.
+Identifiers: Identical amounts from the same merchant appearing multiple times on a bank statement.
+Exclusion: Not for separate, intentional purchases or instances where the amounts differ.
+
+Paid by Other Means
+This applies to situations where a customer has paid for a transaction using a different method, but their card was still debited.
+Use when: Payment was made via cash, UPI, cheque, or a different card, yet the merchant still processed the charge on the card being disputed.
+Identifiers: Requires proof of the alternative payment (e.g., a cash receipt or a separate bank confirmation).
+Exclusion: Not for duplicate charges made only on the same card.
+
+Goods or Services Not Provided
+Use this for total non-delivery of an order.
+Use when: A customer pays for an item or service that is never delivered or performed, and a reasonable wait time has passed.
+Identifiers: "Package never arrived," "Ordered online but nothing came," or "Service was a no-show."
+Exclusion: Not for items that were received but were wrong/damaged, or for orders that the customer cancelled.
+
+Cancelled Merchandise/Services
+This category covers one-time purchases or bookings that were terminated by the customer.
+Use when: The customer cancelled an order (like a hotel, flight, or product) within the merchant's allowed timeframe, but was still charged or denied a refund.
+Identifiers: Documented cancellation before receiving the goods; follows merchant cancellation policy.
+Exclusion: Not for recurring subscriptions or items that were returned after being received.
+
+Cancelled Recurring/Free Trial
+Specifically for ongoing memberships or subscription-based billing.
+Use when: Charges continue to occur after a customer has officially unsubscribed from a service or ended a free trial.
+Identifiers: Repeat billing from streaming services, gyms, or software apps after a cancellation date.
+Exclusion: Not for one-time purchases or valid charges for a current billing period before cancellation took effect.
+
+Not as Described / Defective / Counterfeit
+This applies when the customer receives the goods, but they do not match the promised quality or description.
+Use when: The item is broken, missing features, a different model/color than ordered, or a fake/counterfeit version of a brand.
+Identifiers: "Item arrived broken," "Phone is fake," or "Received a different model than advertised."
+Exclusion: Not for cases where nothing was received or where the customer simply changed their mind without a quality issue.
+
+Credit Not Processed
+Use this when a refund is expected but never arrives.
+Use when: A customer has returned an item or the merchant has promised a refund, but the credit has not appeared on the statement after a reasonable period (usually 30 days).
+Identifiers: Requires proof of return (like a tracking number) or a written promise of a refund from the merchant.
+Exclusion: Not for cases where the return hasn't happened yet or if the refund amount is incorrect.

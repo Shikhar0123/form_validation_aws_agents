@@ -1,0 +1,69 @@
+form_details = {
+  "reason_of_dispute": [],
+  "customer": {
+    "first_name": "EBUBE",
+    "last_name": "IGBOJI",
+    "mobile_number": "+35383032278",
+    "email_address": "igbojisrhada20111@gmail.com",
+    "card_type": "Visa Debit Card",
+    "card_number": "29428365"
+  },
+  "transaction": {
+    "amount": "2557.64",
+    "date": "2025-10-06",
+    "detail": "Amazon.ie"
+  },
+  "customer_explanation": "I made an order on the 18th of September from Amazon. My order came with nothing inside the parcels. I made contact with Amazon about this matter and they concluded that they will refund my order. I will send the refund and my order confirmation. I also have proof of their confirmation of them refunding me for my order. They no longer refunded my order even though I never received my order. So I will like to claim back what I paid for but did not receive."
+}
+
+evidenece_details = """PROOFS UPLOADED BY CUSTOMER Upload proof-1 (Extracted text from image/jpeg)
+
+20:11
+11m
+58
+amazon.ie
+Sold by: Amazon.ie Return or Replace Items: Eligible until 5 November 2025 €1,579.00
+:selected: Track package
+Buy it again
+Return or Replace Items
+Write a product review
+Payment method
+Visa ending in 7500
+Dispatch to
+Rashad Igboji Adamstown 15 Aderrig close Lucan, Dublin K78C6W4 Ireland, Republic of
+Order Summary
+Recommended for you based on Apple 2025 MacBook Air 13 ...
+®
+5 C
+                    0          1
+0   Item(s) Subtotal:  €2,075.33
+1  Postage & Packing:      €4.05
+2   Total Before VAT:  €2,079.38
+3                VAT:    €478.26
+4              Total:  €2,557.64
+5        Grand Total:  €2,557.64
+6      Refund Total V  €2,557.64
+GC0311259012339
+usecase-2
+0
+Inbox - Saurabh.Sin ...
+GC03
+
+Upload proof-2 (Extracted text from image/jpeg)
+
+lindows Photo Viewer
+mail
+Burn y Open
+cs-reply@amazon.ie to me -
+amazon
+Message From
+Hello Ebube,
+I've processed a refund of EUR 976 14 and 1,581.50 back to the original payment method.
+You can expect to see this refund reflected in your account within the next 14 business days We'd appreciate your feedback. Please use the buttons below to vote about your experience today
+Did I solve your problem?
+Yes No
+Warmest regards Bikalp P
+Your feedback is helping us build Earth's Most Customer-Centric Company Amazon.ie
+:selected
+
+"""
